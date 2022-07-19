@@ -1,0 +1,7 @@
+venv
+__pychache__/
+.idea/
+db.sqlite3
+WalkEatUsers/
+manage.py
+templates/
